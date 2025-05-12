@@ -1,4 +1,4 @@
-# Prediction-of-Absence-or-Presence-of-Pneumonia-Using-Chest-X-Ray-Data
+# Prediction of Absence or Presence of Pneumonia Using Chest X-Ray Data
 
 This project uses a pre-trained CNN model, MobileNetV2, to classify images and predict the absence or presence of pneumonia. The dataset is available on Kaggle and has been linked below. 
 
