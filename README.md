@@ -35,5 +35,5 @@ The model achieved a test accuracy of **84.62%** on the classification task.
 
 ## Acknowledgments
 - Dataset: [Kaggle - Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
-- MobileNetV2 pre-trained model
+- MobileNetV2 (Pre-Trained Model)
 - Google Colab for running the notebook with GPU support
